@@ -1,10 +1,11 @@
 {
-  "appId": "ir.shadfar.rexa",
-  "appName": "Rexa",
+  "appId": "com.accounting.app",
+  "appName": "حسابداری",
   "webDir": "dist",
-  "bundledWebRuntime": false,
-  "backgroundColor": "#3E1461",
-  "android": {
-    "backgroundColor": "#3E1461"
+  "plugins": {
+    "Keyboard": {
+      "resize": "none",
+      "style": "DARK"
+    }
   }
 }
